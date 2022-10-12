@@ -63,6 +63,13 @@ The Total Summary above shows the mean of 1498.78 for this sample and the popula
 In a world where most people are now work from home (WFH), a person interested in a vehicle is most likely to take into consideration the maintance of owning a vehicle at the time of purchase. 
 
 ### Metric to test
-For consumers who want a relaible vehicle while driving sparingly, the next metrics to test would be fuel efficienty and cost per drive.
+For consumers who want a relaible vehicle while driving sparingly, the next metrics to test would be Miles Per Gallon, fuel efficienty, and cost per drive.
 
+### null hypothesis or alternative hypothesis
+We would have to compare the MPG to other vehiles of simular make and find whether ours is above or below our competitors.
 
+### statistical test
+The best statistical test for this would be two-sample t-tests.
+
+### data needed
+We would need to collect data from different road drives and how efficiently our vehicle drives against the data of our competition. 
